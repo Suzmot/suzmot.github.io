@@ -1,0 +1,43 @@
+html {
+  background-color:#e6fff0; 
+}
+
+body {
+  width: 80%;
+  border: 2px solid black;
+  background-color:white;
+  padding: 4%;
+  margin: 4%;
+  font-family: "Calibri";
+}
+
+#heading {
+  font-size: 14px;
+  font-style: strong;
+}
+
+.myButton {
+	box-shadow:inset 0px 0px 14px -3px #f2fadc;
+	background:linear-gradient(to bottom, #cbdba7 5%, #e6fff0 100%);
+	background-color:#cbdba7;
+	border-radius:6px;
+	border:1px solid #b2b8ad;
+	display:inline-block;
+	cursor:pointer;
+	color:#495242;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ced9bf;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #e6fff0 5%, #cbdba7 100%);
+	background-color:#e6fff0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
