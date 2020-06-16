@@ -4,15 +4,34 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-    <div style="text-align: left;"><a href="aboutme.html" class="myButton">About
-        Me</a><a href="project.html" class="myButton">Project</a>&nbsp;&nbsp;
+    <div style="text-align: left;">
+      <a href="index.html" class="myButton">Home</a>
+      <a href="aboutme.html" class="myButton">About Me</a>
+      <a href="project.html" class="myButton">Project</a>&nbsp;&nbsp;
       &nbsp; &nbsp;&nbsp; &nbsp; <img src="me.jpg" alt="me" title="me" style="float:right; width: 173px; height: 173px;"></div>
-    <p class="MsoNormal"><b>Name:</b><span style="mso-spacerun:yes">&nbsp; </span>Cameron
-      Bell</p>
-    <p class="MsoNormal"><b>Student Number:</b><span style="mso-spacerun:yes">&nbsp;
-        </span>s3862773</p>
-    <p class="MsoNormal"><b>Email Address:</b><span style="mso-spacerun:yes">&nbsp;
-        </span><a href="mailto:s3862773@student.rmit.edu.au">s3862773@student.rmit.edu.au</a></p>
+    <p class="MsoNormal">I was born in 1980 in Brisbane, Australia.<span style="mso-spacerun:yes">&nbsp;
+        </span>My parents are Scottish and English, one a direct immigrant and
+      the other a first generation Australian.</p>
+    <p class="MsoNormal">I’ve lived most of my life in Queensland and just
+      recently (end of 2018) moved to Tasmania to open a business.<span style="mso-spacerun:yes">&nbsp;
+        </span></p>
+    <p class="MsoNormal">I have previously worked in the IT industry, having
+      worked for over a decade as an executive on a Domain Name Registrar, a
+      Drop Catcher, A PPC search engine and an Affiliate Network. <span style="mso-spacerun:yes">&nbsp;</span>During
+      this role I picked up some technical skill in mySQL and basic front-end
+      Development, however I would really like to expand this and become a real
+      technical expert. </p>
+    <p class="MsoNormal">An interesting fact about me is that after I left the
+      IT industry a couple of years ago I decided to try a completely different
+      industry and I moved to Tasmania to open my very own Laser Clinic.<span style="mso-spacerun:yes">&nbsp;
+        </span>We perform permanent laser hair removal, skin treatments and even
+      cosmetic injectables like anti-wrinkle and filler. </p>
+    <p>Besides work, I love hiking, camping, renovating, motorbikes and dogs.<span
+
+        style="mso-spacerun:yes">&nbsp; </span>Here’s a picture of my bike:</p>
+    <img src="bike.jpg" alt="bike" title="bike" style="width: 405px; height: 303px;">
+    <p><br>
+    </p>
     <p></p>
   </body>
 </html>
